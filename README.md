@@ -1,4 +1,6 @@
-# Hi 👋 I'm Sowmya Sree
+<p align="center">
+  <img src="./dark.svg" width="100%" alt="GitHub Banner">
+</p># Hi 👋 I'm Sowmya Sree
 
 ## 🎓 B.Sc Data Science Student
 
