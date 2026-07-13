@@ -32,3 +32,6 @@
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sowmyaaa17&theme=tokyonight)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sowmyaaa17&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
