@@ -24,3 +24,8 @@
 - GitHub: https://github.com/Sowmyaaa17
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sowmyaaa17&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmyaaa17&layout=compact&theme=tokyonight)
