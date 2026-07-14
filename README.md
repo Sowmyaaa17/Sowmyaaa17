@@ -1,39 +1,20 @@
+<h1 align="center">Hi 👋, I'm Prasanna Shanmukha Sowmya Sri</h1>
+
+<h3 align="center">📊 Aspiring Data Scientist | Python Developer | Future Data Analyst</h3>
+
 <p align="center">
-  <img src="./dark.svg" width="100%" alt="GitHub Banner">
-</p># Hi 👋 I'm Sowmya Sree
+🌟 Passionate about solving real-world problems using Data Science and AI.
+</p>
 
-## 🎓 B.Sc Data Science Student
+---
 
-💻 Python Developer
+### 👩‍💻 About Me
 
-🤖 AI & Machine Learning Enthusiast
-
-🌱 Currently Learning Full Stack Development
-
-🎯 Goal: Become a Software Engineer
-
-## 🛠 Skills
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- Machine Learning
-
-## 📫 Connect With Me
-- GitHub: https://github.com/Sowmyaaa17
-
-⭐ Thanks for visiting my profile!
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sowmyaaa17&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmyaaa17&layout=compact&theme=tokyonight)
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sowmyaaa17&theme=tokyonight)](https://git.io/streak-stats)
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sowmyaaa17&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+- 🎓 B.Tech Student
+- 📊 Aspiring Data Scientist
+- 🐍 Python Programmer
+- 🗄 SQL Learner
+- 📈 Power BI Developer
+- 📑 Microsoft Excel
+- 🧠 DSA Learner
+- 🎯 Goal: Become a Data Scientist at a Top Tech Company
