@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="dark.svg#gh-dark-mode-only" width="100%" alt="Dark Banner">
-  <img src="light.svg#gh-light-mode-only" width="100%" alt="Light Banner">
+  <img src="./banner.svg" width="100%" alt="Sowmya Sri GitHub Banner">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Prasanna+Shanmukha+Sowmya+Sri;Aspiring+Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Learning+DSA+Every+Day" />
