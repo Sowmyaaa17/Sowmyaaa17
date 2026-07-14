@@ -2,6 +2,9 @@
   <img src="./banner.svg" width="100%" alt="Sowmya Sri GitHub Banner">
 </p>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sowmya+Sri;Data+Analyst;B.Sc+Data+Science+Student;Python+%7C+SQL+%7C+Power+BI+%7C+DSA;Turning+Data+into+Insights+%F0%9F%93%8A" />
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Prasanna+Shanmukha+Sowmya+Sri;Aspiring+Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Learning+DSA+Every+Day" />
 </p>
 <h1 align="center">Hi 👋, I'm Prasanna Shanmukha Sowmya Sri</h1>
