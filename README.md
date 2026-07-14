@@ -66,3 +66,21 @@
 </a>
 
 </p>
+## 💼 Currently Working On
+
+- 📊 Data Science Projects
+- 🐍 Python Programming
+- 🗄 SQL Practice
+- 📈 Power BI Dashboards
+- 📑 Microsoft Excel
+- 💻 Data Structures & Algorithms (DSA)
+
+---
+
+## 🎯 2026 Goals
+
+✔ Master Python  
+✔ Solve 300+ DSA Problems  
+✔ Build 10+ Data Science Projects  
+✔ Learn Machine Learning  
+✔ Crack a Top Tech Company
