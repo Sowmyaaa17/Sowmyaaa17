@@ -44,3 +44,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sowmyaaa17&theme=tokyonight" />
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sowmyaaa17&theme=tokyonight&row=1&column=6"/>
+</p>
