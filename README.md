@@ -170,3 +170,10 @@
 ⭐ Thanks for visiting my profile ⭐
 
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sowmyaaa17/Sowmyaaa17/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
