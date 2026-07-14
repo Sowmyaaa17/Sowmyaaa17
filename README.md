@@ -49,3 +49,20 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sowmyaaa17&theme=tokyonight&row=1&column=6"/>
 </p>
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/prasanna-shanmukha-sowmya-sri-vadlamuri-a0ab45340?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sowmyasree173@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://share.google/7u2nhX916tqwayxEW" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
