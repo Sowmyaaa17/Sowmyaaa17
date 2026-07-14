@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&amp;family=Rajdhani:wght@500;600;700&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+
+      /* Global Styles */
+      .title-greet {
+        font-family: 'Fira Code', monospace;
+        font-size: 20px;
+        fill: #00F0FF;
+        font-weight: 500;
+        letter-spacing: 2px;
+      }
+      .title-name {
+        font-family: 'Orbitron', sans-serif;
+        font-size: 58px;
+        font-weight: 900;
+        fill: url(#gradient-name);
+        letter-spacing: 3px;
+        filter: drop-shadow(0px 0px 15px rgba(0, 240, 255, 0.3));
+      }
+      .title-role {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        fill: #FFF;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      }
+      .title-sub {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        fill: #8A99AD;
+        letter-spacing: 1px;
+      }
+      .tagline {
+        font-family: 'Fira Code', monospace;
+        font-size: 16px;
+        fill: #00FF85;
+        font-weight: 400;
+      }
+      .skill-text {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        fill: #E2E8F0;
+        letter-spacing: 1px;
+      }
+
+      /* Animations */
+      @keyframes pulseGlow {
+        0%, 100% { filter: drop-shadow(0 0 5px rgba(0, 240, 255, 0.6)); }
+        50% { filter: drop-shadow(0 0 20px rgba(189, 0, 255, 0.8)); }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes float-reverse {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(10px); }
+      }
+      @keyframes gridScroll {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(40px); }
+      }
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes barGrow {
+        0%, 100% { height: 30px; y: 220px; }
+        50% { height: 110px; y: 140px; }
+      }
+      @keyframes barGrow2 {
+        0%, 100% { height: 90px; y: 160px; }
+        50% { height: 40px; y: 210px; }
+      }
+      @keyframes barGrow3 {
+        0%, 100% { height: 60px; y: 190px; }
+        50% { height: 120px; y: 130px; }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes scanline {
+        0% { y: 0; }
+        100% { y: 500; }
+      }
+      @keyframes rotateDisc {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+
+      /* Classes applying animations */
+      .animated-glow { animation: pulseGlow 6s infinite ease-in-out; }
+      .floating-icon-1 { animation: float 5s infinite ease-in-out; transform-origin: center; }
+      .floating-icon-2 { animation: float-reverse 6s infinite ease-in-out; transform-origin: center; }
+      .floating-icon-3 { animation: float 4s infinite ease-in-out; transform-origin: center; }
+      .grid-bg { animation: gridScroll 4s linear infinite; }
+      .typing-cursor { animation: blink 1s infinite; }
+      .rotating-element { animation: rotateDisc 12s linear infinite; transform-origin: 750px 240px; }
+      
+      /* Chart stroke animations */
+      .chart-line-1 {
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: drawLine 4s cubic-bezier(0.4, 0, 0.2, 1) forwards infinite alternate;
+      }
+      .chart-line-2 {
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: drawLine 4s cubic-bezier(0.4, 0, 0.2, 1) 1s forwards infinite alternate;
+      }
+
+      /* Bar heights */
+      .bar-1 { animation: barGrow 3.5s ease-in-out infinite; transform-origin: bottom; }
+      .bar-2 { animation: barGrow2 4s ease-in-out infinite; transform-origin: bottom; }
+      .bar-3 { animation: barGrow3 3s ease-in-out infinite; transform-origin: bottom; }
+    </style>
+
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="50%" stop-color="#0B0F19" />
+      <stop offset="100%" stop-color="#050510" />
+    </linearGradient>
+
+    <linearGradient id="gradient-name" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#FF007A" />
+    </linearGradient>
+
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="purple-glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#BD00FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#BD00FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glass" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
+    </filter>
+    
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg-gradient)" />
+  
+  <g class="grid-bg">
+    <rect width="1600" height="600" fill="url(#grid)" y="-50" />
+  </g>
+
+  <rect width="1600" height="2" fill="#00F0FF" opacity="0.15">
+    <animate attributeName="y" values="0;500;0" dur="8s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="200" cy="100" r="180" fill="#00F0FF" opacity="0.1" filter="blur(80px)" />
+  <circle cx="800" cy="250" r="220" fill="#BD00FF" opacity="0.08" filter="blur(100px)" />
+  <circle cx="1400" cy="400" r="180" fill="#00FF85" opacity="0.08" filter="blur(90px)" />
+
+  <g transform="translate(80, 0)">
+    <text x="0" y="115" class="title-greet">&gt;_ HELLO_WORLD</text>
+    
+    <text x="0" y="185" class="title-name">Sowmya Sri</text>
+    
+    <g transform="translate(0, 215)">
+      <rect x="0" y="0" width="195" height="36" rx="6" fill="#121829" stroke="#00F0FF" stroke-width="1.5" class="animated-glow" />
+      <text x="12" y="24" font-family="'Orbitron', sans-serif" font-size="14" font-weight="900" fill="#00F0FF" letter-spacing="1.5">DATA ANALYST</text>
+      
+      <rect x="210" y="0" width="230" height="36" rx="6" fill="#121829" stroke="#BD00FF" stroke-width="1" />
+      <text x="222" y="23" font-family="'Rajdhani', sans-serif" font-size="14" font-weight="600" fill="#E2E8F0" letter-spacing="0.5">B.Sc Data Science Student</text>
+    </g>
+
+    <g transform="translate(0, 290)">
+      <text x="0" y="0" class="tagline">Turning Data into Insights 📊<tspan class="typing-cursor" fill="#00FF85">|</tspan></text>
+    </g>
+
+    <g transform="translate(0, 330)" font-family="'Rajdhani', sans-serif" font-size="15" fill="#8A99AD">
+      <text x="0" y="0">📍 Location: <tspan fill="#FFF">India</tspan></text>
+      <text x="180" y="0">⚡ Status: <tspan fill="#00FF85">Open to Projects</tspan></text>
+    </g>
+  </g>
+
+  <g transform="translate(560, 75)">
+    <rect width="480" height="310" rx="16" fill="#0B132B" fill-opacity="0.7" stroke="#1E293B" stroke-width="2" />
+    <rect width="480" height="310" rx="16" fill="none" stroke="url(#gradient-name)" stroke-width="1.5" opacity="0.4" />
+    
+    <path d="M 16 0 L 180 0 L 200 25 L 464 25" fill="none" stroke="#2D3748" stroke-width="1" />
+    <circle cx="25" cy="15" r="4" fill="#FF5F56" />
+    <circle cx="40" cy="15" r="4" fill="#FFBD2E" />
+    <circle cx="55" cy="15" r="4" fill="#27C93F" />
+    <text x="80" y="19" font-family="'Fira Code', monospace" font-size="11" fill="#4A5568">analytics_stream_v2.log</text>
+    <text x="400" y="19" font-family="'Orbitron', sans-serif" font-size="10" fill="#00F0FF" font-weight="700">LIVE FEED</text>
+
+    <g transform="translate(40, 140)">
+      <circle cx="50" cy="50" r="45" fill="none" stroke="#1E293B" stroke-width="1" />
+      <circle cx="50" cy="50" r="30" fill="none" stroke="#1E293B" stroke-width="1" />
+      <line x1="50" y1="50" x2="50" y2="5" stroke="#00F0FF" stroke-width="1.5" opacity="0.8" class="rotating-element" />
+      <circle cx="50" cy="50" r="3" fill="#00F0FF" />
+      <text x="50" y="115" font-family="'Rajdhani', sans-serif" font-size="12" fill="#8A99AD" text-anchor="middle" font-weight="600">ENGINE ACCESS</text>
+    </g>
+
+    <g transform="translate(170, 0)">
+      <line x1="0" y1="120" x2="110" y2="120" stroke="#1E293B" stroke-dasharray="2 2" />
+      <line x1="0" y1="170" x2="110" y2="170" stroke="#1E293B" stroke-dasharray="2 2" />
+      <line x1="0" y1="220" x2="110" y2="220" stroke="#1E293B" stroke-dasharray="2 2" />
+      
+      <rect x="10" y="140" width="18" height="110" rx="3" fill="url(#cyan-glow)" class="bar-1" />
+      <rect x="45" y="160" width="18" height="90" rx="3" fill="url(#purple-glow)" class="bar-2" />
+      <rect x="80" y="190" width="18" height="60" rx="3" fill="url(#cyan-glow)" class="bar-3" />
+    </g>
+
+    <g transform="translate(300, 110)">
+      <path d="M 0 140 L 150 140" stroke="#1E293B" stroke-width="1" />
+      <path d="M 0 100 Q 25 30, 50 80 T 100 20 T 150 90" fill="none" stroke="#00F0FF" stroke-width="2.5" class="chart-line-1" />
+      <path d="M 0 120 Q 20 80, 60 110 T 110 50 T 150 110" fill="none" stroke="#FF007A" stroke-width="1.5" opacity="0.7" class="chart-line-2" />
+      <circle cx="100" cy="20" r="4" fill="#00F0FF" class="animated-glow"/>
+    </g>
+
+    <g transform="translate(25, 275)" font-family="'Fira Code', monospace" font-size="11" fill="#4D5D75">
+      <text x="0" y="0">&gt; Query execution: <tspan fill="#00FF85">SUCCESS</tspan></text>
+      <text x="0" y="16">&gt; Models trained: 4/4 | Acc: <tspan fill="#00F0FF">98.2%</tspan></text>
+    </g>
+  </g>
+
+  <g transform="translate(1120, 60)">
+    <path d="M 320 20 L 320 320 L 20 320" fill="none" stroke="#1E293B" stroke-dasharray="4 4" />
+
+    <g transform="translate(40, 20)" class="floating-icon-1">
+      <rect width="110" height="110" rx="16" fill="#121829" fill-opacity="0.8" stroke="#00F0FF" stroke-width="1" />
+      <path d="M55,25 C41,25 42,31 42,31 L42,38 L55,38 L55,40 L37,40 C37,40 30,40 30,53 C30,66 35,67 35,67 L39,67 L39,62 C39,62 39,55 46,55 L63,55 C63,55 69,55 69,43 L69,31 C69,31 70,25 55,25 Z" fill="#38BDF8" />
+      <path d="M55,85 C69,85 68,79 68,79 L68,72 L55,72 L55,70 L73,70 C73,70 80,70 80,57 C80,44 75,43 75,43 L71,43 L71,48 C71,48 71,55 64,55 L47,55 C47,55 41,55 41,67 L41,79 C41,79 40,85 55,85 Z" fill="#FBBF24" />
+      <circle cx="47" cy="31" r="2" fill="#0F172A" />
+      <circle cx="63" cy="79" r="2" fill="#0F172A" />
+      <text x="55" y="100" font-family="'Rajdhani', sans-serif" font-size="12" font-weight="700" fill="#E2E8F0" text-anchor="middle">PYTHON</text>
+    </g>
+
+    <g transform="translate(180, 50)" class="floating-icon-2">
+      <rect width="110" height="110" rx="16" fill="#121829" fill-opacity="0.8" stroke="#BD00FF" stroke-width="1" />
+      <g transform="translate(35, 23)" stroke="#BD00FF" stroke-width="2" fill="none">
+        <ellipse cx="20" cy="12" rx="20" ry="7" fill="#1E1E38" />
+        <path d="M 0,12 L 0,27 A 20,7 0 0,0 40,27 L 40,12" />
+        <path d="M 0,27 L 0,42 A 20,7 0 0,0 40,42 L 40,27" />
+        <path d="M 0,42 L 0,57 A 20,7 0 0,0 40,57 L 40,42" fill="#BD00FF" fill-opacity="0.2"/>
+      </g>
+      <text x="55" y="100" font-family="'Rajdhani', sans-serif" font-size="12" font-weight="700" fill="#E2E8F0" text-anchor="middle">SQL DB</text>
+    </g>
+
+    <g transform="translate(20, 170)" class="floating-icon-3">
+      <rect width="110" height="110" rx="16" fill="#121829" fill-opacity="0.8" stroke="#FFBC0A" stroke-width="1" />
+      <g transform="translate(40, 26)">
+        <rect x="0" y="24" width="8" height="24" rx="1.5" fill="#E5A900" />
+        <rect x="12" y="12" width="8" height="36" rx="1.5" fill="#F2C811" />
+        <rect x="24" y="0" width="8" height="48" rx="1.5" fill="#FFE169" />
+      </g>
+      <text x="55" y="100" font-family="'Rajdhani', sans-serif" font-size="12" font-weight="700" fill="#E2E8F0" text-anchor="middle">POWER BI</text>
+    </g>
+
+    <g transform="translate(160, 200)" class="floating-icon-1">
+      <rect width="110" height="110" rx="16" fill="#121829" fill-opacity="0.8" stroke="#00FF85" stroke-width="1" />
+      <g transform="translate(38, 25)" stroke="#00FF85" stroke-width="2" fill="none">
+        <circle cx="12" cy="45" r="5" fill="#00FF85" />
+        <circle cx="12" cy="12" r="5" />
+        <circle cx="28" cy="20" r="5" />
+        <path d="M 12,40 L 12,17" />
+        <path d="M 12,35 Q 28,32 28,25" />
+      </g>
+      <text x="55" y="100" font-family="'Rajdhani', sans-serif" font-size="12" font-weight="700" fill="#E2E8F0" text-anchor="middle">GIT &amp; HUB</text>
+    </g>
+  </g>
+
+  <g transform="translate(80, 420)">
+    <path d="M 0 25 L 1440 25" stroke="#1E293B" stroke-width="1" stroke-dasharray="10 5" />
+    
+    <g transform="translate(0, 5)">
+      <g transform="translate(0, 0)">
+        <rect width="105" height="32" rx="16" fill="#121829" stroke="#00F0FF" stroke-width="1" />
+        <text x="52.5" y="21" class="skill-text" text-anchor="middle">Python</text>
+      </g>
+      <g transform="translate(125, 0)">
+        <rect width="85" height="32" rx="16" fill="#121829" stroke="#BD00FF" stroke-width="1" />
+        <text x="42.5" y="21" class="skill-text" text-anchor="middle">SQL</text>
+      </g>
+      <g transform="translate(230, 0)">
+        <rect width="115" height="32" rx="16" fill="#121829" stroke="#FFBC0A" stroke-width="1" />
+        <text x="57.5" y="21" class="skill-text" text-anchor="middle">Power BI</text>
+      </g>
+      <g transform="translate(365, 0)">
+        <rect width="145" height="32" rx="16" fill="#121829" stroke="#00FF85" stroke-width="1" />
+        <text x="72.5" y="21" class="skill-text" text-anchor="middle">Data Analysis</text>
+      </g>
+      <g transform="translate(530, 0)">
+        <rect width="175" height="32" rx="16" fill="#121829" stroke="#00F0FF" stroke-width="1" />
+        <text x="87.5" y="21" class="skill-text" text-anchor="middle">Data Visualization</text>
+      </g>
+      <g transform="translate(725, 0)">
+        <rect width="85" height="32" rx="16" fill="#121829" stroke="#FF007A" stroke-width="1" />
+        <text x="42.5" y="21" class="skill-text" text-anchor="middle">DSA</text>
+      </g>
+      <g transform="translate(830, 0)">
+        <rect width="145" height="32" rx="16" fill="#121829" stroke="#00FF85" stroke-width="1" />
+        <text x="72.5" y="21" class="skill-text" text-anchor="middle">Git &amp; GitHub</text>
+      </g>
+    </g>
+  </g>
+
+  <g fill="#00F0FF" opacity="0.4">
+    <circle cx="30" cy="30" r="3" />
+    <circle cx="50" cy="30" r="2" />
+    <circle cx="30" cy="50" r="2" />
+  </g>
+</svg>
