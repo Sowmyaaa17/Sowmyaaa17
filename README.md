@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Prasanna Shanmukha Sowmya Sri</h1>
 
-<h3 align="center">📊 Aspiring Data Scientist | Python Developer | Future Data Analyst</h3>
-
-<p align="center">
-🌟 Passionate about solving real-world problems using Data Science and AI.
-</p>
+<h3 align="center">📊 Aspiring Data Scientist | 🐍 Python | 🗄 SQL | 📈 Power BI | 💻 DSA</h3>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech Student
 - 📊 Aspiring Data Scientist
-- 🐍 Python Programmer
+- 🐍 Python Developer
 - 🗄 SQL Learner
-- 📈 Power BI Developer
+- 📈 Power BI Enthusiast
 - 📑 Microsoft Excel
-- 🧠 DSA Learner
+- 💻 DSA Learner
 - 🎯 Goal: Become a Data Scientist at a Top Tech Company
+
+## 🚀 Currently Learning
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Structures & Algorithms
