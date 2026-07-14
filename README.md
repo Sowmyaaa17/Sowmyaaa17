@@ -81,6 +81,11 @@
 </p>
 
 ---
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowmyaaa17&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 💼 Current Focus
 
@@ -126,4 +131,12 @@
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
+</p>
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sowmyaaa17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
