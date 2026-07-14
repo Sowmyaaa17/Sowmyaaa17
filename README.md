@@ -2,35 +2,34 @@
   <img src="./banner.svg" width="100%" alt="Sowmya Sri Banner"/>
 </p>
 
-<h1 align="center">Hiii I'm Sowmya Sri</h1>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowmyaaa17&theme=tokyonight"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Sowmya Sri</h1>
 
 <h3 align="center">
-📊 Data Analyst Aspirant | 🎓 B.Sc Data Science Student
+📊 Data Analyst Aspirant • 🎓 B.Sc Data Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Science+Student;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Science+Student;Always+Learning+New+Things+🚀"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 B.Sc Data Science Student
-
-📊 Aspiring Data Analyst
-
-🐍 Python Developer
-
-🗄 SQL Enthusiast
-
-📈 Power BI Dashboard Developer
-
-📑 Microsoft Excel
-
-💻 DSA Learner
-
-❤️ Passionate about solving real-world problems using Data
+- 🎓 B.Sc Data Science Student
+- 📊 Aspiring Data Analyst
+- 🐍 Python Developer
+- 🗄 SQL Enthusiast
+- 📈 Power BI Dashboard Developer
+- 📑 Microsoft Excel
+- 💻 DSA Learner
+- 📊 Data Analytics & Visualization
+- 🤖 Exploring AI & Machine Learning
+- 🚀 Passionate about solving real-world problems using data
 
 ---
 
@@ -38,14 +37,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css"/>
 
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00BFFF?style=for-the-badge"/>
 
 </p>
 
@@ -55,9 +57,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sowmyaaa17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sowmyaaa17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmyaaa17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmyaaa17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sowmyaaa17&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sowmyaaa17&theme=tokyonight"/>
 
 </p>
 
@@ -71,9 +81,15 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sowmyaaa17&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -95,33 +111,24 @@
 
 # 💼 Current Focus
 
-📊 Data Analytics
-
-📈 Power BI Dashboards
-
-🐍 Python Projects
-
-🗄 SQL Practice
-
-💻 DSA
-
-📑 Excel
-
-🤖 AI Projects
+- 📊 Data Analytics
+- 📈 Power BI Dashboards
+- 🐍 Python Projects
+- 🗄 SQL Practice
+- 💻 Data Structures & Algorithms
+- 🤖 AI & Machine Learning
+- 📑 Excel Automation
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Master Python
-
-✅ Master SQL
-
-✅ Build 20+ Projects
-
-✅ Learn Machine Learning
-
-✅ Crack Top Product Company
+- ✅ Master Python
+- ✅ Master SQL
+- ✅ Build 20+ Data Analytics Projects
+- ✅ Learn Machine Learning
+- ✅ Solve 300+ DSA Problems
+- ✅ Crack a Top Tech Company as a Data Analyst
 
 ---
 
@@ -139,7 +146,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sowmyaaa17&label=Profile+Views&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Sowmyaaa17&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -150,30 +157,31 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/prasanna-shanmukha-sowmya-sri-vadlamuri-a0ab45340">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sowmyasree173@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sowmyaaa17">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+<img src="https://raw.githubusercontent.com/Sowmyaaa17/Sowmyaaa17/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sowmyaaa17/Sowmyaaa17/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+⭐ Thanks for visiting my profile! ⭐
+
 </p>
