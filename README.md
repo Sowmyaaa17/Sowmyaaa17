@@ -17,19 +17,18 @@
 </p>
 
 ---
-
 # 👩‍💻 About Me
 
-- 🎓 B.Sc Data Science Student
-- 📊 Aspiring Data Analyst
-- 🐍 Python Developer
-- 🗄 SQL Enthusiast
-- 📈 Power BI Dashboard Developer
-- 📑 Microsoft Excel
-- 💻 DSA Learner
-- 📊 Data Analytics & Visualization
-- 🤖 Exploring AI & Machine Learning
-- 🚀 Passionate about solving real-world problems using data
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Data+Science+Enthusiast;Python+Developer;SQL+%7C+Power+BI;Machine+Learning;Building+AI+Projects+🚀"/>
+
+<br><br>
+
+<img src="./about-me-banner.png" width="100%"/>
+
+</p>
+
 
 ---
 
