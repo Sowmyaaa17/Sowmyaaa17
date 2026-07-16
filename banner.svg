@@ -121,9 +121,10 @@
     </style>
 
     <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050814" />
-      <stop offset="50%" stop-color="#0B0F19" />
-      <stop offset="100%" stop-color="#050510" />
+     <stop offset="0%" stop-color="#050816" />
+    <stop offset="35%" stop-color="#170033" />
+    <stop offset="65%" stop-color="#3B0764" />
+    <stop offset="100%" stop-color="#7C3AED" />
     </linearGradient>
 
     <linearGradient id="gradient-name" x1="0%" y1="0%" x2="100%" y2="0%">
