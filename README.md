@@ -1,26 +1,30 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Sowmya Sri Banner"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="./banner.svg" width="100%" alt="Sowmya Sri — animated cyberpunk banner"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sowmyaaa17&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sowmyaaa17&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/github/followers/Sowmyaaa17?style=for-the-badge&color=7DD3FC&labelColor=050816&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Sowmyaaa17?style=for-the-badge&color=A855F7&labelColor=050816&label=STARS"/>
 
-<img src="https://img.shields.io/github/followers/Sowmyaaa17?style=for-the-badge&color=8A2BE2"/>
+<br/>
 
-<img src="https://img.shields.io/github/stars/Sowmyaaa17?style=for-the-badge&color=00E5FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+AI+Projects+%F0%9F%9A%80;Turning+Data+Into+Decisions+%E2%9A%A1"/>
 
-</p>
+<br/><br/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowmyaaa17&theme=tokyonight"/>
-</p>
+<a href="https://www.linkedin.com/in/prasanna-shanmukha-sowmya-sri-vadlamuri-a0ab45340">
+  <img src="https://img.shields.io/badge/LinkedIn-connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816"/>
+</a>
+<a href="mailto:sowmyasree173@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-say_hello-7DD3FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816"/>
+</a>
+<a href="https://github.com/Sowmyaaa17">
+  <img src="https://img.shields.io/badge/GitHub-follow-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=050816"/>
+</a>
 
-<h1 align="center">Hi 👋 I'm Sowmya Sri</h1>
+</div>
 
-<h3 align="center">
-📊 Aspiring Data Analyst • 🎓 B.Sc Data Science Student
-</h3>
+<img src="./divider.svg" width="100%"/>
 
 <p align="center">
 
